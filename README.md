@@ -1,8 +1,9 @@
 # etc
 
-## startupcode / 스타트업코드
+## Rhea chu / 추연수
 
-안녕하세요
+안녕하세요! 
+
 <br />
 <br />
 <br />
@@ -22,6 +23,8 @@
 <br />
 
 ## Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
 
 #### I use it often.
 
