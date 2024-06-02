@@ -27,7 +27,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rhea)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={dev_reah})](https://solved.ac/{dev_reah})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dev_reah)](https://solved.ac/dev_reah)
 
 #### I use it often.
 
