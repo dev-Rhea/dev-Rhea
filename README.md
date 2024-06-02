@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Hello!&fontSize=50)
 ## Rhea chu / 추연수
 
-안녕하세요! 
+:raised_hand:안녕하세요!:raised_hand:
 
 <br />
 <br />
