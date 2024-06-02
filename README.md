@@ -1,5 +1,4 @@
-# etc
-
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hello!&fontSize=50)
 ## Rhea chu / 추연수
 
 안녕하세요! 
@@ -22,9 +21,13 @@
 <br />
 <br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?dev-rhea=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&hide=stars,commits,prs&show_icons=true&theme=discord_old_blurple)
+
 ## Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rhea)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={dev_reah})](https://solved.ac/{dev_reah})
 
 #### I use it often.
 
