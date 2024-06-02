@@ -21,7 +21,7 @@
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?dev-rhea=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&hide=stars,commits,prs&show_icons=true&theme=discord_old_blurple)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?dev-Rhea=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&hide=stars,commits,prs&show_icons=true&theme=discord_old_blurple)
 
 ## Skills
 
