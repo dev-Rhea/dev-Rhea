@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hello!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Hello!&fontSize=50)
 ## Rhea chu / 추연수
 
 안녕하세요! 
@@ -21,7 +21,7 @@
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?dev-Rhea=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=discord_old_blurple)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-Rhea)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=discord_old_blurple)
 
 ## Skills
 
