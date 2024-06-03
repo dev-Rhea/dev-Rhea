@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Hello!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=#A9C3F9&height=100&section=header&text=Hello!&fontSize=50)
 ## Rhea chu / 추연수
 
 :raised_hand:안녕하세요!:raised_hand:
@@ -7,7 +7,7 @@
 <br />
 <br />
 
-## My values:sparkles:
+## My values
 
 간결한 것을 좋아합니다. <br/>
 재미있는 길을 추구합니다. <br/>
@@ -15,7 +15,7 @@
 <br />
 <br />
 
-## How i work:muscle:
+## How i work
 
 효율적으로 문제를 해결하기 위해서 노력합니다!
 다방면으로 소통하며 목표를 다양한 시각으로 바라보려 합니다!
