@@ -7,16 +7,19 @@
 <br />
 <br />
 
-## My values
+## My values:sparkles:
 
 간결한 것을 좋아합니다. <br/>
-재미있는 길을 추구합니다. <br />
+재미있는 길을 추구합니다. <br/>
+새로운 것을 배우는 것을 좋아합니다! 제 손으로 만들어내는 것들이 재미있다고 생각합니다. <br/>
 <br />
 <br />
 
-## How i work
+## How i work:muscle:
 
-새로운 것을 배우는 것을 좋아합니다! 제 손으로 만들어내는 것들이 재미있다고 생각합니다.
+효율적으로 문제를 해결하기 위해서 노력합니다!
+다방면으로 소통하며 목표를 다양한 시각으로 바라보려 합니다!
+
 <br />
 <br />
 <br />
@@ -25,7 +28,7 @@
 
 ## Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rhea)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dev_reah)](https://solved.ac/dev_reah)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rhea)](https://github.com/anuraghazra/github-readme-stats)         [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dev_reah)](https://solved.ac/dev_reah)
 
 #### I use it often.
 
