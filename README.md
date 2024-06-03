@@ -1,9 +1,11 @@
-<div align="center">
    ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=100&section=header&text=Hello!&fontSize=50&fontColor=#FFFFFF)
+<div align="center">
+
 ## Rhea chu / 추연수
 
 :raised_hand:안녕하세요!:raised_hand:
-
+신입 백엔드 개발자 입니다! 다양한 서비스를 개발하기 위해서 열심히 공부하고 있습니다!:muscle:
+잘부탁드립니다:bangbang:
 <br />
 <br />
 <br />
