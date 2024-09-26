@@ -45,7 +45,9 @@
 <br />
 <br />
 </div>
+
 #### I've used it before.
+
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
@@ -55,7 +57,5 @@
 <br />
 <br />
 <br />
-
-Copyright ⓒ startupcode yaro
 
 </div>
